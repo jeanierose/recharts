@@ -7,7 +7,7 @@ export default function Welcome() {
     <div className="p-6 flex flex-col items-center w-full">
 
       <h1 className="text-center p-4">
-        My very first data visualization using Recharts
+        My data visualization using Recharts
       </h1>
 
       {/* container with spacing between charts */}
